@@ -8,3 +8,6 @@ tbX/
 .ipynb_checkpoints
 *.pyc
 *.pth
+
+data/*.jpg
+pytorch_Realtime_Multi-Person_Pose_Estimation/
